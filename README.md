@@ -1,4 +1,4 @@
-# 👋 Hey. Welcome to my GitHub profile.
+# 👋 Hello. Welcome to my GitHub profile.
 
 ## About Me
 - 🛡️ Offensive Security Researcher
