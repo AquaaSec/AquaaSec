@@ -1,8 +1,7 @@
 # 👋 Hi. Welcome to my GitHub profile.
 
 ## About Me
-- 🛡️ Offensive Security Researcher
-- 🎓 Cybersecurity Student
+- 🛡️ Penetration Tester
 - ✍️ Blog Author
 - 🧩 CTF Player
 
